@@ -28,3 +28,16 @@ a{
   text-decoration: none;
   color: inherit;
 }
+
+@keyframes fadeIn{
+  0%{
+    opacity: o;
+  }
+  100%{
+    opacity: 1;
+  }
+}
+
+::-webkit-scrollbar{
+  display: none;
+}
